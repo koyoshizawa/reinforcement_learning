@@ -5,5 +5,6 @@
 OpenAi Gym を使用して環境を構築。  
 最終的にはFxトレードを学習させたい。(野望)  
 
-1. cart-pole-v0を試す  
+## フロー
+1. cart-pole-v0を試す  
 actionはランダム -> Q-learning -> Deep Q-leaning 予定
