@@ -10,5 +10,5 @@ OpenAi Gym を使用して環境を構築。
 actionはランダム -> Q-learning -> Deep Q-leaning 予定
 
 ## 参考
-・DQNをKerasとTensorFlowとOpenAI Gymで実装する  
-<http://elix-tech.github.io/ja/2016/06/29/dqn-ja.html>
+・DQNをKerasとTensorFlowとOpenAI Gymで実装する <br>  http://elix-tech.github.io/ja/2016/06/29/dqn-ja.html  <br>
+・[メモ]OpenAIでアルゴリズムトレードのgym環境を構築しているリポジトリ  <br>  https://qiita.com/hide-tono/items/4480627934883d02fc69   
