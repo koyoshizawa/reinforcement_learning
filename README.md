@@ -7,7 +7,11 @@ OpenAi Gym を使用して環境を構築。
 
 ## フロー
 1. cart-pole-v0を試す  
-actionはランダム -> Q-learning -> Deep Q-leaning 予定
+actionはランダム -> Q-learning 予定
+2. fx の自作env作成
+action -> [[買い, 売り, 保持], 枚数]
+observation -> [position, 枚数, time_series_data]
+time_series_data -> 1分, 5分, 15分, 30分, 60分 のcloseデータ
 
 ## 参考
 ・DQNをKerasとTensorFlowとOpenAI Gymで実装する  
