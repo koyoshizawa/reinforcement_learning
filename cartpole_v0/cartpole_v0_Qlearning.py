@@ -6,6 +6,7 @@ action -> Q learningで学習
 import gym
 import numpy as np
 import random
+import time
 
 def get_action(state):
     """
