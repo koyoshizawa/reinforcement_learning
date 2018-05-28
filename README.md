@@ -14,5 +14,5 @@ observation -> [position, 枚数, time_series_data]
 time_series_data -> 1分, 5分, 15分, 30分, 60分 のcloseデータ
 
 ## 参考
-・DQNをKerasとTensorFlowとOpenAI Gymで実装する  
-<http://elix-tech.github.io/ja/2016/06/29/dqn-ja.html>
+・DQNをKerasとTensorFlowとOpenAI Gymで実装する <br>  http://elix-tech.github.io/ja/2016/06/29/dqn-ja.html  <br>
+・[メモ]OpenAIでアルゴリズムトレードのgym環境を構築しているリポジトリ  <br>  https://qiita.com/hide-tono/items/4480627934883d02fc69   
